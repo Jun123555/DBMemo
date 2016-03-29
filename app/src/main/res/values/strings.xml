@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DBMemo</string>
+    <string name="title_activity_memo_creat">MemoCreateActivity</string>
+</resources>
